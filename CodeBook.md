@@ -2,7 +2,7 @@
     This code book lists all the variables contained in the tidydata.txt file .
 ## Factor variables as identifiers :
 - subject : Subject identifier, integer from 1 to 30
-- activity: the activity when the measures was taken
+- activity: the activity when the measures was taken<br/>
            - 'WALKING': subject was walking<br/>
            - 'WALKING'_UPSTAIRS: subject was walking upstairs<br/>
            - 'WALKING_DOWNSTAIRS': subject was walking downstairs<br/>
